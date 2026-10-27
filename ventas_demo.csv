@@ -1,0 +1,1101 @@
+﻿fecha,producto,categoria,unidades,precio_unitario,total,medio_pago
+2025-01-01,Mouse,Tecnología,3,53500,160500,Billetera digital
+2025-01-01,Cuaderno,Papelería,1,15800,15800,Transferencia
+2025-01-02,Marcadores,Papelería,1,23200,23200,Billetera digital
+2025-01-02,Cafetera,Hogar,1,199100,199100,Tarjeta
+2025-01-03,Cuaderno,Papelería,1,16300,16300,Efectivo
+2025-01-04,Audífonos,Tecnología,1,78300,78300,Tarjeta
+2025-01-06,Parlante,Tecnología,2,144000,288000,Efectivo
+2025-01-08,Botella,Deportes,3,28800,86400,Tarjeta
+2025-01-08,Organizador,Hogar,1,44300,44300,Tarjeta
+2025-01-08,Cuerda,Deportes,3,35700,107100,Transferencia
+2025-01-09,Mat de yoga,Deportes,2,93700,187400,Tarjeta
+2025-01-09,Mat de yoga,Deportes,1,106400,106400,Tarjeta
+2025-01-11,Audífonos,Tecnología,3,78100,234300,Billetera digital
+2025-01-11,Mat de yoga,Deportes,1,92600,92600,Billetera digital
+2025-01-12,Licuadora,Hogar,2,196700,393400,Efectivo
+2025-01-13,Mochila,Papelería,1,94000,94000,Billetera digital
+2025-01-15,Balón,Deportes,2,71600,143200,Tarjeta
+2025-01-15,Audífonos,Tecnología,1,74600,74600,Transferencia
+2025-01-16,Mochila,Papelería,1,91700,91700,Billetera digital
+2025-01-17,Organizador,Hogar,1,41000,41000,Efectivo
+2025-01-17,Organizador,Hogar,2,41700,83400,Efectivo
+2025-01-18,Audífonos,Tecnología,1,72500,72500,Transferencia
+2025-01-18,Marcadores,Papelería,2,22100,44200,Efectivo
+2025-01-18,Agenda,Papelería,1,34800,34800,Efectivo
+2025-01-19,Licuadora,Hogar,2,215300,430600,Billetera digital
+2025-01-19,Organizador,Hogar,1,45400,45400,Efectivo
+2025-01-19,Parlante,Tecnología,1,150900,150900,Efectivo
+2025-01-19,Mochila,Papelería,2,95600,191200,Billetera digital
+2025-01-20,Lámpara,Hogar,1,73300,73300,Tarjeta
+2025-01-20,Mouse,Tecnología,3,54600,163800,Transferencia
+2025-01-20,Balón,Deportes,2,76700,153400,Billetera digital
+2025-01-21,Parlante,Tecnología,2,137000,274000,Billetera digital
+2025-01-21,Teclado,Tecnología,2,97700,195400,Tarjeta
+2025-01-22,Organizador,Hogar,2,45600,91200,Billetera digital
+2025-01-23,Cuerda,Deportes,2,32500,65000,Efectivo
+2025-01-23,Cuerda,Deportes,2,34200,68400,Efectivo
+2025-01-24,Cuerda,Deportes,3,35000,105000,Efectivo
+2025-01-24,Mochila,Papelería,2,89500,179000,Tarjeta
+2025-01-25,Mat de yoga,Deportes,2,106000,212000,Billetera digital
+2025-01-27,Cafetera,Hogar,2,175200,350400,Tarjeta
+2025-01-28,Agenda,Papelería,1,34800,34800,Tarjeta
+2025-01-28,Lámpara,Hogar,2,63300,126600,Transferencia
+2025-01-28,Licuadora,Hogar,2,196800,393600,Billetera digital
+2025-01-29,Audífonos,Tecnología,1,72200,72200,Efectivo
+2025-01-29,Balón,Deportes,2,77600,155200,Tarjeta
+2025-01-29,Cafetera,Hogar,1,201300,201300,Tarjeta
+2025-01-30,Audífonos,Tecnología,3,82700,248100,Transferencia
+2025-01-30,Organizador,Hogar,1,42800,42800,Efectivo
+2025-01-30,Lámpara,Hogar,1,63100,63100,Efectivo
+2025-01-31,Lámpara,Hogar,1,66400,66400,Billetera digital
+2025-01-31,Mochila,Papelería,1,89000,89000,Tarjeta
+2025-01-31,Audífonos,Tecnología,1,82500,82500,Tarjeta
+2025-01-31,Cuerda,Deportes,1,37100,37100,Tarjeta
+2025-02-01,Cuerda,Deportes,2,35000,70000,Transferencia
+2025-02-02,Parlante,Tecnología,1,134900,134900,Efectivo
+2025-02-02,Mochila,Papelería,1,88700,88700,Tarjeta
+2025-02-02,Organizador,Hogar,1,43600,43600,Tarjeta
+2025-02-03,Balón,Deportes,3,72700,218100,Billetera digital
+2025-02-04,Licuadora,Hogar,2,206100,412200,Transferencia
+2025-02-04,Mouse,Tecnología,1,52400,52400,Tarjeta
+2025-02-05,Audífonos,Tecnología,1,73100,73100,Tarjeta
+2025-02-05,Balón,Deportes,2,76200,152400,Efectivo
+2025-02-06,Mouse,Tecnología,1,51500,51500,Billetera digital
+2025-02-07,Teclado,Tecnología,1,89700,89700,Efectivo
+2025-02-07,Mouse,Tecnología,3,48400,145200,Efectivo
+2025-02-07,Cuerda,Deportes,2,32700,65400,Transferencia
+2025-02-08,Lámpara,Hogar,1,64100,64100,Efectivo
+2025-02-09,Cuaderno,Papelería,3,15800,47400,Transferencia
+2025-02-09,Cafetera,Hogar,2,195600,391200,Efectivo
+2025-02-09,Balón,Deportes,1,77300,77300,Transferencia
+2025-02-10,Lámpara,Hogar,1,62800,62800,Efectivo
+2025-02-11,Marcadores,Papelería,2,22300,44600,Efectivo
+2025-02-11,Organizador,Hogar,1,43300,43300,Transferencia
+2025-02-13,Botella,Deportes,2,26200,52400,Efectivo
+2025-02-13,Botella,Deportes,2,26600,53200,Transferencia
+2025-02-13,Organizador,Hogar,3,40300,120900,Tarjeta
+2025-02-14,Audífonos,Tecnología,3,72800,218400,Tarjeta
+2025-02-15,Teclado,Tecnología,1,97800,97800,Efectivo
+2025-02-15,Parlante,Tecnología,2,139100,278200,Efectivo
+2025-02-16,Agenda,Papelería,3,32700,98100,Transferencia
+2025-02-16,Cafetera,Hogar,1,174100,174100,Efectivo
+2025-02-17,Parlante,Tecnología,1,143700,143700,Tarjeta
+2025-02-18,Parlante,Tecnología,1,152500,152500,Billetera digital
+2025-02-19,Marcadores,Papelería,1,21300,21300,Billetera digital
+2025-02-19,Teclado,Tecnología,1,91200,91200,Transferencia
+2025-02-20,Cuerda,Deportes,3,36500,109500,Efectivo
+2025-02-20,Cafetera,Hogar,1,177200,177200,Billetera digital
+2025-02-21,Cuerda,Deportes,3,33200,99600,Tarjeta
+2025-02-22,Mat de yoga,Deportes,1,100000,100000,Tarjeta
+2025-02-22,Parlante,Tecnología,2,137100,274200,Billetera digital
+2025-02-22,Licuadora,Hogar,1,205500,205500,Billetera digital
+2025-02-22,Teclado,Tecnología,3,90100,270300,Billetera digital
+2025-02-23,Cafetera,Hogar,3,173900,521700,Transferencia
+2025-02-25,Mochila,Papelería,1,92400,92400,Billetera digital
+2025-02-25,Botella,Deportes,1,29800,29800,Efectivo
+2025-02-25,Lámpara,Hogar,1,65700,65700,Billetera digital
+2025-02-26,Teclado,Tecnología,1,96100,96100,Tarjeta
+2025-02-26,Audífonos,Tecnología,1,71800,71800,Tarjeta
+2025-02-26,Agenda,Papelería,1,31200,31200,Billetera digital
+2025-02-26,Mouse,Tecnología,1,55900,55900,Billetera digital
+2025-02-27,Lámpara,Hogar,1,72200,72200,Transferencia
+2025-02-28,Mat de yoga,Deportes,2,106700,213400,Billetera digital
+2025-02-28,Cuaderno,Papelería,1,15600,15600,Transferencia
+2025-02-28,Marcadores,Papelería,3,21000,63000,Transferencia
+2025-03-01,Lámpara,Hogar,1,64300,64300,Tarjeta
+2025-03-01,Marcadores,Papelería,2,23700,47400,Billetera digital
+2025-03-02,Organizador,Hogar,2,44600,89200,Tarjeta
+2025-03-02,Audífonos,Tecnología,1,78100,78100,Transferencia
+2025-03-03,Marcadores,Papelería,1,21800,21800,Transferencia
+2025-03-05,Teclado,Tecnología,3,97800,293400,Efectivo
+2025-03-05,Agenda,Papelería,2,32200,64400,Billetera digital
+2025-03-05,Balón,Deportes,1,76500,76500,Efectivo
+2025-03-05,Teclado,Tecnología,2,103500,207000,Transferencia
+2025-03-06,Mouse,Tecnología,2,48300,96600,Tarjeta
+2025-03-07,Mochila,Papelería,1,89800,89800,Transferencia
+2025-03-08,Botella,Deportes,1,28800,28800,Billetera digital
+2025-03-08,Audífonos,Tecnología,3,76300,228900,Transferencia
+2025-03-09,Marcadores,Papelería,3,21300,63900,Billetera digital
+2025-03-10,Cuerda,Deportes,3,36300,108900,Tarjeta
+2025-03-10,Parlante,Tecnología,1,132900,132900,Tarjeta
+2025-03-13,Parlante,Tecnología,1,133200,133200,Tarjeta
+2025-03-13,Botella,Deportes,2,26800,53600,Tarjeta
+2025-03-13,Balón,Deportes,2,75900,151800,Transferencia
+2025-03-14,Mat de yoga,Deportes,3,92000,276000,Billetera digital
+2025-03-14,Licuadora,Hogar,3,194500,583500,Transferencia
+2025-03-15,Teclado,Tecnología,1,98900,98900,Transferencia
+2025-03-15,Agenda,Papelería,1,32700,32700,Tarjeta
+2025-03-16,Mat de yoga,Deportes,1,95000,95000,Transferencia
+2025-03-16,Mat de yoga,Deportes,1,100700,100700,Billetera digital
+2025-03-17,Mat de yoga,Deportes,2,96800,193600,Billetera digital
+2025-03-18,Cuerda,Deportes,2,34900,69800,Transferencia
+2025-03-18,Mat de yoga,Deportes,2,101600,203200,Tarjeta
+2025-03-18,Marcadores,Papelería,2,22600,45200,Efectivo
+2025-03-18,Licuadora,Hogar,3,195700,587100,Tarjeta
+2025-03-20,Audífonos,Tecnología,1,80600,80600,Tarjeta
+2025-03-20,Cuerda,Deportes,1,32600,32600,Billetera digital
+2025-03-21,Cafetera,Hogar,2,184000,368000,Tarjeta
+2025-03-23,Cafetera,Hogar,3,196500,589500,Transferencia
+2025-03-24,Cuerda,Deportes,1,37000,37000,Tarjeta
+2025-03-24,Cafetera,Hogar,1,183700,183700,Tarjeta
+2025-03-25,Agenda,Papelería,2,31900,63800,Tarjeta
+2025-03-26,Licuadora,Hogar,1,195100,195100,Transferencia
+2025-03-26,Mochila,Papelería,3,92200,276600,Efectivo
+2025-03-26,Marcadores,Papelería,1,23100,23100,Tarjeta
+2025-03-27,Licuadora,Hogar,3,214300,642900,Efectivo
+2025-03-27,Licuadora,Hogar,2,222800,445600,Efectivo
+2025-03-27,Mochila,Papelería,1,95800,95800,Billetera digital
+2025-03-28,Agenda,Papelería,1,32500,32500,Billetera digital
+2025-03-28,Marcadores,Papelería,1,20500,20500,Transferencia
+2025-03-28,Organizador,Hogar,2,43800,87600,Efectivo
+2025-03-28,Mat de yoga,Deportes,2,103700,207400,Transferencia
+2025-03-29,Botella,Deportes,2,27700,55400,Tarjeta
+2025-03-29,Marcadores,Papelería,1,22300,22300,Transferencia
+2025-03-30,Mouse,Tecnología,3,50400,151200,Tarjeta
+2025-03-30,Cafetera,Hogar,2,200100,400200,Billetera digital
+2025-03-30,Botella,Deportes,3,27900,83700,Tarjeta
+2025-03-31,Botella,Deportes,2,28200,56400,Billetera digital
+2025-03-31,Teclado,Tecnología,1,92400,92400,Billetera digital
+2025-04-01,Agenda,Papelería,1,31100,31100,Tarjeta
+2025-04-02,Cuerda,Deportes,1,36300,36300,Tarjeta
+2025-04-02,Marcadores,Papelería,1,23500,23500,Billetera digital
+2025-04-02,Cafetera,Hogar,2,175800,351600,Billetera digital
+2025-04-05,Cuaderno,Papelería,3,16600,49800,Transferencia
+2025-04-07,Lámpara,Hogar,1,65900,65900,Efectivo
+2025-04-08,Balón,Deportes,1,75800,75800,Billetera digital
+2025-04-08,Marcadores,Papelería,1,23600,23600,Transferencia
+2025-04-08,Mouse,Tecnología,2,49300,98600,Billetera digital
+2025-04-10,Mouse,Tecnología,2,56500,113000,Billetera digital
+2025-04-10,Botella,Deportes,3,27500,82500,Billetera digital
+2025-04-10,Audífonos,Tecnología,2,76800,153600,Billetera digital
+2025-04-11,Mat de yoga,Deportes,1,91300,91300,Efectivo
+2025-04-11,Mouse,Tecnología,1,52400,52400,Tarjeta
+2025-04-11,Cuaderno,Papelería,1,15200,15200,Tarjeta
+2025-04-11,Marcadores,Papelería,1,20500,20500,Tarjeta
+2025-04-11,Botella,Deportes,1,27900,27900,Tarjeta
+2025-04-12,Organizador,Hogar,3,43700,131100,Tarjeta
+2025-04-12,Balón,Deportes,2,76000,152000,Transferencia
+2025-04-15,Balón,Deportes,2,72100,144200,Billetera digital
+2025-04-16,Balón,Deportes,3,74600,223800,Tarjeta
+2025-04-16,Licuadora,Hogar,2,215500,431000,Billetera digital
+2025-04-16,Cafetera,Hogar,1,196500,196500,Billetera digital
+2025-04-17,Mochila,Papelería,1,86000,86000,Billetera digital
+2025-04-18,Cuerda,Deportes,1,35600,35600,Transferencia
+2025-04-19,Balón,Deportes,1,78700,78700,Billetera digital
+2025-04-21,Mochila,Papelería,1,90800,90800,Billetera digital
+2025-04-22,Cafetera,Hogar,2,183800,367600,Transferencia
+2025-04-23,Botella,Deportes,1,26100,26100,Tarjeta
+2025-04-23,Organizador,Hogar,3,45500,136500,Transferencia
+2025-04-23,Mochila,Papelería,1,96200,96200,Efectivo
+2025-04-23,Mat de yoga,Deportes,2,91700,183400,Billetera digital
+2025-04-23,Teclado,Tecnología,1,90400,90400,Transferencia
+2025-04-24,Organizador,Hogar,3,44800,134400,Efectivo
+2025-04-26,Mochila,Papelería,2,83300,166600,Billetera digital
+2025-04-26,Cafetera,Hogar,1,170400,170400,Tarjeta
+2025-04-26,Licuadora,Hogar,1,212900,212900,Transferencia
+2025-04-27,Cuaderno,Papelería,1,15200,15200,Billetera digital
+2025-04-27,Mouse,Tecnología,1,48200,48200,Efectivo
+2025-04-28,Organizador,Hogar,2,39800,79600,Transferencia
+2025-04-29,Lámpara,Hogar,1,72600,72600,Efectivo
+2025-04-30,Cuerda,Deportes,2,32300,64600,Efectivo
+2025-05-01,Cuaderno,Papelería,1,16900,16900,Transferencia
+2025-05-02,Cuerda,Deportes,1,34800,34800,Billetera digital
+2025-05-02,Botella,Deportes,1,26800,26800,Billetera digital
+2025-05-02,Organizador,Hogar,2,45200,90400,Efectivo
+2025-05-04,Audífonos,Tecnología,1,73700,73700,Tarjeta
+2025-05-04,Marcadores,Papelería,1,23300,23300,Billetera digital
+2025-05-04,Parlante,Tecnología,3,140200,420600,Transferencia
+2025-05-04,Teclado,Tecnología,3,100200,300600,Efectivo
+2025-05-05,Cuaderno,Papelería,2,15100,30200,Tarjeta
+2025-05-05,Parlante,Tecnología,1,140900,140900,Billetera digital
+2025-05-05,Teclado,Tecnología,1,96500,96500,Tarjeta
+2025-05-05,Mochila,Papelería,1,89000,89000,Billetera digital
+2025-05-07,Balón,Deportes,1,77800,77800,Efectivo
+2025-05-07,Botella,Deportes,2,30000,60000,Billetera digital
+2025-05-08,Cafetera,Hogar,2,194200,388400,Efectivo
+2025-05-09,Teclado,Tecnología,2,87500,175000,Transferencia
+2025-05-09,Cuaderno,Papelería,3,16000,48000,Billetera digital
+2025-05-10,Mat de yoga,Deportes,1,91300,91300,Efectivo
+2025-05-10,Mouse,Tecnología,2,52300,104600,Transferencia
+2025-05-10,Botella,Deportes,1,29700,29700,Tarjeta
+2025-05-10,Lámpara,Hogar,1,71100,71100,Tarjeta
+2025-05-10,Cafetera,Hogar,2,196100,392200,Billetera digital
+2025-05-10,Teclado,Tecnología,2,94500,189000,Billetera digital
+2025-05-12,Parlante,Tecnología,2,133600,267200,Billetera digital
+2025-05-12,Mouse,Tecnología,1,54500,54500,Billetera digital
+2025-05-13,Mochila,Papelería,1,84400,84400,Tarjeta
+2025-05-13,Teclado,Tecnología,2,96900,193800,Efectivo
+2025-05-13,Organizador,Hogar,2,39800,79600,Tarjeta
+2025-05-16,Cuaderno,Papelería,2,17400,34800,Billetera digital
+2025-05-18,Cuerda,Deportes,2,32500,65000,Billetera digital
+2025-05-18,Cuerda,Deportes,2,35400,70800,Tarjeta
+2025-05-19,Mouse,Tecnología,2,52600,105200,Billetera digital
+2025-05-21,Audífonos,Tecnología,2,77300,154600,Tarjeta
+2025-05-22,Parlante,Tecnología,3,147200,441600,Transferencia
+2025-05-22,Lámpara,Hogar,3,64200,192600,Efectivo
+2025-05-24,Cuerda,Deportes,3,34000,102000,Billetera digital
+2025-05-25,Lámpara,Hogar,3,73000,219000,Efectivo
+2025-05-25,Balón,Deportes,1,78700,78700,Billetera digital
+2025-05-27,Botella,Deportes,3,26400,79200,Billetera digital
+2025-05-27,Cuaderno,Papelería,1,16400,16400,Tarjeta
+2025-05-27,Marcadores,Papelería,1,23000,23000,Tarjeta
+2025-05-29,Cuerda,Deportes,1,36300,36300,Billetera digital
+2025-05-29,Audífonos,Tecnología,1,80800,80800,Transferencia
+2025-05-29,Licuadora,Hogar,1,197200,197200,Billetera digital
+2025-05-29,Agenda,Papelería,2,30200,60400,Efectivo
+2025-05-29,Mochila,Papelería,1,86900,86900,Tarjeta
+2025-05-30,Cafetera,Hogar,1,201500,201500,Billetera digital
+2025-05-30,Cuerda,Deportes,2,37600,75200,Transferencia
+2025-05-31,Balón,Deportes,1,68300,68300,Billetera digital
+2025-06-01,Cafetera,Hogar,1,201000,201000,Billetera digital
+2025-06-02,Cafetera,Hogar,1,174400,174400,Tarjeta
+2025-06-02,Parlante,Tecnología,3,145900,437700,Tarjeta
+2025-06-03,Balón,Deportes,3,71600,214800,Transferencia
+2025-06-03,Mat de yoga,Deportes,1,96400,96400,Tarjeta
+2025-06-03,Audífonos,Tecnología,1,72100,72100,Transferencia
+2025-06-04,Audífonos,Tecnología,1,76000,76000,Transferencia
+2025-06-04,Marcadores,Papelería,1,22800,22800,Billetera digital
+2025-06-05,Marcadores,Papelería,1,20700,20700,Transferencia
+2025-06-06,Mouse,Tecnología,2,54900,109800,Efectivo
+2025-06-06,Teclado,Tecnología,3,91200,273600,Efectivo
+2025-06-07,Lámpara,Hogar,1,70600,70600,Efectivo
+2025-06-07,Cuaderno,Papelería,2,17400,34800,Billetera digital
+2025-06-09,Mouse,Tecnología,2,52400,104800,Transferencia
+2025-06-09,Mat de yoga,Deportes,1,105000,105000,Efectivo
+2025-06-10,Organizador,Hogar,2,41900,83800,Transferencia
+2025-06-10,Teclado,Tecnología,2,90000,180000,Billetera digital
+2025-06-10,Mat de yoga,Deportes,1,104700,104700,Tarjeta
+2025-06-11,Balón,Deportes,1,79300,79300,Transferencia
+2025-06-12,Teclado,Tecnología,1,91000,91000,Transferencia
+2025-06-12,Cafetera,Hogar,3,189400,568200,Tarjeta
+2025-06-12,Marcadores,Papelería,1,21700,21700,Billetera digital
+2025-06-12,Organizador,Hogar,3,41900,125700,Transferencia
+2025-06-13,Mochila,Papelería,2,84700,169400,Efectivo
+2025-06-13,Audífonos,Tecnología,1,83500,83500,Transferencia
+2025-06-13,Botella,Deportes,1,26700,26700,Tarjeta
+2025-06-14,Lámpara,Hogar,1,64700,64700,Billetera digital
+2025-06-15,Mat de yoga,Deportes,1,91400,91400,Tarjeta
+2025-06-16,Cafetera,Hogar,1,195500,195500,Transferencia
+2025-06-16,Cuerda,Deportes,2,35400,70800,Billetera digital
+2025-06-17,Mochila,Papelería,2,92000,184000,Tarjeta
+2025-06-18,Mouse,Tecnología,1,55600,55600,Transferencia
+2025-06-18,Botella,Deportes,3,26500,79500,Efectivo
+2025-06-19,Lámpara,Hogar,1,70200,70200,Tarjeta
+2025-06-19,Cuerda,Deportes,1,36000,36000,Billetera digital
+2025-06-19,Marcadores,Papelería,1,21600,21600,Billetera digital
+2025-06-19,Cuaderno,Papelería,2,17200,34400,Transferencia
+2025-06-20,Cuerda,Deportes,2,36700,73400,Efectivo
+2025-06-21,Botella,Deportes,2,30200,60400,Transferencia
+2025-06-21,Mochila,Papelería,1,88200,88200,Transferencia
+2025-06-21,Organizador,Hogar,2,45400,90800,Tarjeta
+2025-06-22,Botella,Deportes,1,28700,28700,Billetera digital
+2025-06-24,Cafetera,Hogar,2,198700,397400,Tarjeta
+2025-06-27,Balón,Deportes,2,70000,140000,Efectivo
+2025-06-28,Balón,Deportes,1,71200,71200,Efectivo
+2025-06-28,Mouse,Tecnología,1,51000,51000,Tarjeta
+2025-06-29,Mouse,Tecnología,2,56300,112600,Billetera digital
+2025-06-29,Licuadora,Hogar,1,223200,223200,Billetera digital
+2025-07-01,Parlante,Tecnología,1,150000,150000,Tarjeta
+2025-07-01,Agenda,Papelería,1,33600,33600,Billetera digital
+2025-07-04,Marcadores,Papelería,2,22000,44000,Transferencia
+2025-07-06,Lámpara,Hogar,1,73500,73500,Transferencia
+2025-07-06,Mochila,Papelería,1,95500,95500,Efectivo
+2025-07-06,Agenda,Papelería,1,33800,33800,Transferencia
+2025-07-07,Agenda,Papelería,2,30400,60800,Transferencia
+2025-07-09,Teclado,Tecnología,2,101600,203200,Efectivo
+2025-07-10,Agenda,Papelería,1,30600,30600,Tarjeta
+2025-07-10,Marcadores,Papelería,2,21400,42800,Tarjeta
+2025-07-10,Licuadora,Hogar,2,202700,405400,Tarjeta
+2025-07-12,Teclado,Tecnología,2,102500,205000,Tarjeta
+2025-07-13,Cuaderno,Papelería,2,15700,31400,Efectivo
+2025-07-14,Mat de yoga,Deportes,1,105500,105500,Tarjeta
+2025-07-14,Organizador,Hogar,1,46800,46800,Transferencia
+2025-07-14,Mouse,Tecnología,2,53500,107000,Transferencia
+2025-07-15,Cafetera,Hogar,1,200800,200800,Billetera digital
+2025-07-15,Lámpara,Hogar,1,66600,66600,Tarjeta
+2025-07-15,Cuaderno,Papelería,2,16900,33800,Tarjeta
+2025-07-16,Agenda,Papelería,1,33500,33500,Transferencia
+2025-07-16,Lámpara,Hogar,1,67700,67700,Billetera digital
+2025-07-16,Agenda,Papelería,1,34400,34400,Billetera digital
+2025-07-17,Cafetera,Hogar,2,199000,398000,Efectivo
+2025-07-17,Licuadora,Hogar,1,216400,216400,Billetera digital
+2025-07-18,Licuadora,Hogar,3,202600,607800,Billetera digital
+2025-07-19,Organizador,Hogar,1,45200,45200,Billetera digital
+2025-07-20,Cafetera,Hogar,1,198600,198600,Billetera digital
+2025-07-20,Cuerda,Deportes,1,37600,37600,Efectivo
+2025-07-20,Agenda,Papelería,2,34200,68400,Tarjeta
+2025-07-21,Licuadora,Hogar,1,203100,203100,Billetera digital
+2025-07-21,Marcadores,Papelería,1,23000,23000,Efectivo
+2025-07-22,Cuerda,Deportes,2,33600,67200,Efectivo
+2025-07-22,Cuerda,Deportes,1,36100,36100,Transferencia
+2025-07-22,Mochila,Papelería,1,88200,88200,Billetera digital
+2025-07-22,Mochila,Papelería,3,89900,269700,Transferencia
+2025-07-23,Mat de yoga,Deportes,3,96100,288300,Efectivo
+2025-07-23,Cuaderno,Papelería,1,14900,14900,Transferencia
+2025-07-24,Mouse,Tecnología,1,55600,55600,Efectivo
+2025-07-24,Organizador,Hogar,2,41300,82600,Billetera digital
+2025-07-25,Parlante,Tecnología,3,137000,411000,Efectivo
+2025-07-25,Licuadora,Hogar,3,209500,628500,Billetera digital
+2025-07-26,Parlante,Tecnología,3,132700,398100,Tarjeta
+2025-07-27,Agenda,Papelería,2,33500,67000,Efectivo
+2025-07-27,Cuaderno,Papelería,2,16100,32200,Transferencia
+2025-07-28,Balón,Deportes,2,68100,136200,Efectivo
+2025-07-29,Cuaderno,Papelería,2,15900,31800,Efectivo
+2025-07-29,Lámpara,Hogar,1,72500,72500,Tarjeta
+2025-07-29,Mochila,Papelería,3,87000,261000,Efectivo
+2025-07-29,Cuerda,Deportes,1,37700,37700,Transferencia
+2025-07-29,Mat de yoga,Deportes,2,102300,204600,Billetera digital
+2025-07-29,Mochila,Papelería,1,88800,88800,Efectivo
+2025-07-30,Parlante,Tecnología,1,146900,146900,Tarjeta
+2025-07-30,Lámpara,Hogar,1,73700,73700,Transferencia
+2025-07-30,Licuadora,Hogar,1,221500,221500,Billetera digital
+2025-07-30,Botella,Deportes,2,26900,53800,Efectivo
+2025-07-31,Audífonos,Tecnología,2,74400,148800,Billetera digital
+2025-07-31,Agenda,Papelería,2,34300,68600,Tarjeta
+2025-07-31,Mouse,Tecnología,3,51300,153900,Tarjeta
+2025-07-31,Marcadores,Papelería,1,23000,23000,Tarjeta
+2025-08-01,Mouse,Tecnología,1,52500,52500,Billetera digital
+2025-08-03,Agenda,Papelería,3,33200,99600,Tarjeta
+2025-08-03,Audífonos,Tecnología,3,73400,220200,Tarjeta
+2025-08-03,Marcadores,Papelería,1,23400,23400,Billetera digital
+2025-08-03,Mouse,Tecnología,1,51200,51200,Billetera digital
+2025-08-04,Audífonos,Tecnología,1,76300,76300,Billetera digital
+2025-08-05,Agenda,Papelería,2,32300,64600,Tarjeta
+2025-08-05,Mochila,Papelería,3,92700,278100,Billetera digital
+2025-08-06,Cuaderno,Papelería,2,15300,30600,Efectivo
+2025-08-06,Parlante,Tecnología,2,146600,293200,Efectivo
+2025-08-06,Organizador,Hogar,2,41500,83000,Billetera digital
+2025-08-07,Mochila,Papelería,2,93600,187200,Billetera digital
+2025-08-07,Licuadora,Hogar,3,194100,582300,Tarjeta
+2025-08-08,Organizador,Hogar,1,46700,46700,Transferencia
+2025-08-10,Cuaderno,Papelería,2,14800,29600,Transferencia
+2025-08-11,Mat de yoga,Deportes,2,91300,182600,Billetera digital
+2025-08-11,Teclado,Tecnología,1,93300,93300,Transferencia
+2025-08-12,Mouse,Tecnología,2,54900,109800,Billetera digital
+2025-08-13,Audífonos,Tecnología,1,82100,82100,Efectivo
+2025-08-13,Lámpara,Hogar,1,69600,69600,Billetera digital
+2025-08-14,Mouse,Tecnología,2,49800,99600,Tarjeta
+2025-08-14,Mat de yoga,Deportes,1,94700,94700,Transferencia
+2025-08-14,Botella,Deportes,2,26400,52800,Transferencia
+2025-08-15,Audífonos,Tecnología,3,79300,237900,Efectivo
+2025-08-15,Botella,Deportes,3,30100,90300,Billetera digital
+2025-08-15,Parlante,Tecnología,1,154700,154700,Efectivo
+2025-08-16,Lámpara,Hogar,1,68300,68300,Billetera digital
+2025-08-16,Balón,Deportes,2,68400,136800,Transferencia
+2025-08-17,Teclado,Tecnología,1,94800,94800,Tarjeta
+2025-08-17,Organizador,Hogar,2,46400,92800,Tarjeta
+2025-08-17,Mouse,Tecnología,1,56100,56100,Billetera digital
+2025-08-18,Mochila,Papelería,1,91200,91200,Efectivo
+2025-08-18,Balón,Deportes,3,79600,238800,Transferencia
+2025-08-18,Balón,Deportes,1,78500,78500,Tarjeta
+2025-08-19,Licuadora,Hogar,2,218700,437400,Transferencia
+2025-08-19,Mochila,Papelería,2,90200,180400,Efectivo
+2025-08-20,Parlante,Tecnología,2,152700,305400,Tarjeta
+2025-08-20,Licuadora,Hogar,2,208600,417200,Tarjeta
+2025-08-20,Cuaderno,Papelería,1,16700,16700,Transferencia
+2025-08-20,Cafetera,Hogar,3,191800,575400,Transferencia
+2025-08-21,Parlante,Tecnología,1,145100,145100,Transferencia
+2025-08-21,Teclado,Tecnología,1,94900,94900,Billetera digital
+2025-08-21,Organizador,Hogar,1,46000,46000,Efectivo
+2025-08-21,Licuadora,Hogar,2,222500,445000,Billetera digital
+2025-08-21,Teclado,Tecnología,2,88700,177400,Efectivo
+2025-08-21,Botella,Deportes,1,29000,29000,Tarjeta
+2025-08-22,Botella,Deportes,2,27500,55000,Billetera digital
+2025-08-22,Parlante,Tecnología,2,142800,285600,Efectivo
+2025-08-22,Teclado,Tecnología,1,96800,96800,Efectivo
+2025-08-24,Cafetera,Hogar,2,194000,388000,Tarjeta
+2025-08-24,Cafetera,Hogar,1,186100,186100,Billetera digital
+2025-08-25,Agenda,Papelería,2,33000,66000,Transferencia
+2025-08-26,Audífonos,Tecnología,1,81700,81700,Efectivo
+2025-08-27,Licuadora,Hogar,3,206400,619200,Tarjeta
+2025-08-27,Agenda,Papelería,2,33300,66600,Tarjeta
+2025-08-28,Cuerda,Deportes,1,37200,37200,Transferencia
+2025-08-28,Licuadora,Hogar,2,228700,457400,Efectivo
+2025-08-28,Organizador,Hogar,3,46200,138600,Efectivo
+2025-08-30,Mat de yoga,Deportes,2,94400,188800,Efectivo
+2025-08-30,Marcadores,Papelería,3,23400,70200,Tarjeta
+2025-08-31,Cuerda,Deportes,3,32700,98100,Efectivo
+2025-08-31,Lámpara,Hogar,2,71500,143000,Efectivo
+2025-09-01,Parlante,Tecnología,1,153500,153500,Tarjeta
+2025-09-02,Cuerda,Deportes,3,36300,108900,Billetera digital
+2025-09-02,Parlante,Tecnología,2,153700,307400,Billetera digital
+2025-09-03,Balón,Deportes,2,69300,138600,Transferencia
+2025-09-03,Lámpara,Hogar,1,67000,67000,Billetera digital
+2025-09-03,Parlante,Tecnología,1,135400,135400,Billetera digital
+2025-09-04,Teclado,Tecnología,2,100800,201600,Transferencia
+2025-09-05,Marcadores,Papelería,2,22500,45000,Transferencia
+2025-09-06,Botella,Deportes,2,27700,55400,Tarjeta
+2025-09-07,Parlante,Tecnología,1,152200,152200,Transferencia
+2025-09-07,Mochila,Papelería,1,95500,95500,Tarjeta
+2025-09-07,Agenda,Papelería,3,31700,95100,Efectivo
+2025-09-08,Balón,Deportes,2,69200,138400,Transferencia
+2025-09-08,Teclado,Tecnología,1,98700,98700,Transferencia
+2025-09-09,Lámpara,Hogar,1,62800,62800,Efectivo
+2025-09-09,Cafetera,Hogar,2,189300,378600,Tarjeta
+2025-09-09,Botella,Deportes,2,26100,52200,Billetera digital
+2025-09-09,Marcadores,Papelería,1,22300,22300,Transferencia
+2025-09-09,Mochila,Papelería,2,89700,179400,Billetera digital
+2025-09-10,Botella,Deportes,1,28600,28600,Billetera digital
+2025-09-10,Teclado,Tecnología,3,92900,278700,Efectivo
+2025-09-11,Marcadores,Papelería,1,22700,22700,Efectivo
+2025-09-11,Audífonos,Tecnología,2,71900,143800,Transferencia
+2025-09-12,Marcadores,Papelería,1,21300,21300,Billetera digital
+2025-09-15,Organizador,Hogar,1,41000,41000,Tarjeta
+2025-09-15,Mouse,Tecnología,2,52500,105000,Transferencia
+2025-09-16,Cuaderno,Papelería,2,14800,29600,Transferencia
+2025-09-16,Audífonos,Tecnología,1,83600,83600,Transferencia
+2025-09-16,Mouse,Tecnología,3,52400,157200,Transferencia
+2025-09-16,Agenda,Papelería,1,32800,32800,Tarjeta
+2025-09-17,Balón,Deportes,3,71400,214200,Tarjeta
+2025-09-17,Mat de yoga,Deportes,1,103100,103100,Transferencia
+2025-09-18,Mouse,Tecnología,2,48500,97000,Efectivo
+2025-09-19,Botella,Deportes,1,27500,27500,Tarjeta
+2025-09-20,Cuerda,Deportes,2,37100,74200,Tarjeta
+2025-09-22,Audífonos,Tecnología,1,75200,75200,Efectivo
+2025-09-23,Teclado,Tecnología,3,102300,306900,Billetera digital
+2025-09-25,Audífonos,Tecnología,1,78300,78300,Billetera digital
+2025-09-25,Mochila,Papelería,2,93000,186000,Transferencia
+2025-09-25,Mochila,Papelería,1,82400,82400,Billetera digital
+2025-09-26,Balón,Deportes,2,71900,143800,Transferencia
+2025-09-27,Cafetera,Hogar,1,187200,187200,Tarjeta
+2025-09-27,Teclado,Tecnología,1,99800,99800,Transferencia
+2025-09-28,Cuaderno,Papelería,2,15800,31600,Billetera digital
+2025-09-28,Agenda,Papelería,1,33800,33800,Tarjeta
+2025-09-28,Agenda,Papelería,2,34700,69400,Billetera digital
+2025-09-29,Audífonos,Tecnología,1,75700,75700,Efectivo
+2025-09-29,Lámpara,Hogar,2,72500,145000,Tarjeta
+2025-09-29,Cuerda,Deportes,3,34300,102900,Efectivo
+2025-09-29,Teclado,Tecnología,1,103300,103300,Efectivo
+2025-09-30,Organizador,Hogar,2,44200,88400,Tarjeta
+2025-09-30,Agenda,Papelería,1,31300,31300,Billetera digital
+2025-09-30,Lámpara,Hogar,1,74000,74000,Tarjeta
+2025-10-01,Cafetera,Hogar,1,194600,194600,Efectivo
+2025-10-01,Mouse,Tecnología,1,52900,52900,Transferencia
+2025-10-02,Botella,Deportes,3,29800,89400,Tarjeta
+2025-10-02,Agenda,Papelería,1,30800,30800,Efectivo
+2025-10-02,Agenda,Papelería,2,34500,69000,Billetera digital
+2025-10-02,Licuadora,Hogar,2,194200,388400,Transferencia
+2025-10-02,Mat de yoga,Deportes,1,96200,96200,Transferencia
+2025-10-03,Cuaderno,Papelería,1,15500,15500,Transferencia
+2025-10-04,Mouse,Tecnología,1,54900,54900,Transferencia
+2025-10-05,Audífonos,Tecnología,3,76500,229500,Transferencia
+2025-10-05,Marcadores,Papelería,1,23200,23200,Efectivo
+2025-10-06,Cuerda,Deportes,1,35400,35400,Tarjeta
+2025-10-07,Lámpara,Hogar,2,68500,137000,Billetera digital
+2025-10-07,Teclado,Tecnología,1,95800,95800,Billetera digital
+2025-10-08,Parlante,Tecnología,2,131700,263400,Transferencia
+2025-10-08,Licuadora,Hogar,1,218800,218800,Transferencia
+2025-10-09,Mochila,Papelería,2,92100,184200,Efectivo
+2025-10-10,Teclado,Tecnología,1,89400,89400,Billetera digital
+2025-10-10,Mat de yoga,Deportes,1,93400,93400,Billetera digital
+2025-10-10,Cafetera,Hogar,1,170400,170400,Tarjeta
+2025-10-10,Mat de yoga,Deportes,1,105700,105700,Transferencia
+2025-10-11,Licuadora,Hogar,2,225800,451600,Tarjeta
+2025-10-12,Parlante,Tecnología,1,132300,132300,Transferencia
+2025-10-12,Mouse,Tecnología,1,49100,49100,Efectivo
+2025-10-12,Marcadores,Papelería,2,21900,43800,Billetera digital
+2025-10-13,Cafetera,Hogar,3,172600,517800,Billetera digital
+2025-10-13,Marcadores,Papelería,1,23300,23300,Billetera digital
+2025-10-14,Parlante,Tecnología,3,139100,417300,Tarjeta
+2025-10-15,Teclado,Tecnología,1,87900,87900,Tarjeta
+2025-10-15,Cuaderno,Papelería,2,17000,34000,Tarjeta
+2025-10-15,Audífonos,Tecnología,2,78000,156000,Billetera digital
+2025-10-17,Botella,Deportes,1,30000,30000,Tarjeta
+2025-10-18,Cafetera,Hogar,2,193800,387600,Efectivo
+2025-10-18,Teclado,Tecnología,1,95900,95900,Transferencia
+2025-10-18,Cuerda,Deportes,1,37200,37200,Tarjeta
+2025-10-18,Cuaderno,Papelería,3,16000,48000,Billetera digital
+2025-10-18,Marcadores,Papelería,1,21700,21700,Tarjeta
+2025-10-20,Cuaderno,Papelería,3,17100,51300,Efectivo
+2025-10-20,Mochila,Papelería,1,90500,90500,Billetera digital
+2025-10-21,Cafetera,Hogar,2,173300,346600,Tarjeta
+2025-10-21,Cuerda,Deportes,1,32500,32500,Billetera digital
+2025-10-21,Lámpara,Hogar,2,65800,131600,Efectivo
+2025-10-21,Agenda,Papelería,1,34700,34700,Transferencia
+2025-10-21,Mochila,Papelería,1,87200,87200,Efectivo
+2025-10-22,Audífonos,Tecnología,1,80100,80100,Transferencia
+2025-10-22,Agenda,Papelería,1,33600,33600,Efectivo
+2025-10-22,Marcadores,Papelería,2,20300,40600,Transferencia
+2025-10-22,Audífonos,Tecnología,2,76200,152400,Tarjeta
+2025-10-22,Botella,Deportes,1,28700,28700,Tarjeta
+2025-10-23,Organizador,Hogar,1,45000,45000,Transferencia
+2025-10-23,Mouse,Tecnología,2,48100,96200,Tarjeta
+2025-10-23,Cafetera,Hogar,3,188800,566400,Efectivo
+2025-10-24,Balón,Deportes,1,74600,74600,Billetera digital
+2025-10-25,Licuadora,Hogar,1,214600,214600,Tarjeta
+2025-10-26,Agenda,Papelería,1,33200,33200,Tarjeta
+2025-10-27,Audífonos,Tecnología,2,83000,166000,Transferencia
+2025-10-27,Balón,Deportes,1,69500,69500,Tarjeta
+2025-10-28,Cafetera,Hogar,2,180100,360200,Billetera digital
+2025-10-28,Parlante,Tecnología,1,136600,136600,Tarjeta
+2025-10-28,Marcadores,Papelería,1,20300,20300,Efectivo
+2025-10-29,Mochila,Papelería,1,85800,85800,Efectivo
+2025-10-30,Lámpara,Hogar,2,71100,142200,Billetera digital
+2025-10-31,Lámpara,Hogar,1,73800,73800,Tarjeta
+2025-11-01,Balón,Deportes,2,70000,140000,Billetera digital
+2025-11-01,Cuerda,Deportes,2,38100,76200,Tarjeta
+2025-11-02,Teclado,Tecnología,1,87500,87500,Billetera digital
+2025-11-02,Mochila,Papelería,2,84300,168600,Tarjeta
+2025-11-03,Agenda,Papelería,2,33600,67200,Transferencia
+2025-11-05,Agenda,Papelería,2,32200,64400,Efectivo
+2025-11-06,Mouse,Tecnología,2,55600,111200,Billetera digital
+2025-11-07,Parlante,Tecnología,2,143600,287200,Transferencia
+2025-11-09,Lámpara,Hogar,2,72500,145000,Transferencia
+2025-11-09,Licuadora,Hogar,1,207200,207200,Transferencia
+2025-11-09,Audífonos,Tecnología,1,84200,84200,Transferencia
+2025-11-09,Parlante,Tecnología,3,138600,415800,Efectivo
+2025-11-10,Licuadora,Hogar,2,223400,446800,Billetera digital
+2025-11-10,Organizador,Hogar,1,41200,41200,Tarjeta
+2025-11-11,Botella,Deportes,1,27800,27800,Billetera digital
+2025-11-11,Agenda,Papelería,1,34700,34700,Tarjeta
+2025-11-11,Botella,Deportes,1,29300,29300,Efectivo
+2025-11-11,Cuaderno,Papelería,1,15700,15700,Transferencia
+2025-11-12,Cuerda,Deportes,3,32400,97200,Efectivo
+2025-11-12,Balón,Deportes,1,71600,71600,Tarjeta
+2025-11-13,Balón,Deportes,2,69400,138800,Billetera digital
+2025-11-14,Cafetera,Hogar,1,199000,199000,Tarjeta
+2025-11-14,Cuerda,Deportes,2,36100,72200,Transferencia
+2025-11-16,Agenda,Papelería,1,33100,33100,Transferencia
+2025-11-17,Cafetera,Hogar,2,177900,355800,Billetera digital
+2025-11-17,Balón,Deportes,2,73800,147600,Efectivo
+2025-11-17,Teclado,Tecnología,2,88400,176800,Tarjeta
+2025-11-18,Botella,Deportes,2,30200,60400,Transferencia
+2025-11-19,Audífonos,Tecnología,2,80800,161600,Transferencia
+2025-11-19,Cafetera,Hogar,2,183000,366000,Transferencia
+2025-11-19,Mochila,Papelería,2,85400,170800,Transferencia
+2025-11-19,Marcadores,Papelería,1,20500,20500,Tarjeta
+2025-11-20,Audífonos,Tecnología,1,77700,77700,Transferencia
+2025-11-23,Botella,Deportes,2,26400,52800,Tarjeta
+2025-11-23,Organizador,Hogar,1,45300,45300,Billetera digital
+2025-11-24,Mouse,Tecnología,2,51300,102600,Transferencia
+2025-11-26,Cuerda,Deportes,2,37000,74000,Billetera digital
+2025-11-26,Mouse,Tecnología,1,48400,48400,Efectivo
+2025-11-27,Audífonos,Tecnología,1,72700,72700,Tarjeta
+2025-11-28,Cuerda,Deportes,2,37000,74000,Efectivo
+2025-11-28,Mat de yoga,Deportes,1,100300,100300,Tarjeta
+2025-11-28,Cuaderno,Papelería,1,16600,16600,Transferencia
+2025-11-29,Botella,Deportes,1,26400,26400,Billetera digital
+2025-11-29,Cuerda,Deportes,2,33500,67000,Transferencia
+2025-12-01,Organizador,Hogar,1,42900,42900,Billetera digital
+2025-12-01,Audífonos,Tecnología,1,76100,76100,Billetera digital
+2025-12-02,Mochila,Papelería,2,95900,191800,Transferencia
+2025-12-02,Cuaderno,Papelería,3,14900,44700,Billetera digital
+2025-12-02,Lámpara,Hogar,1,73000,73000,Transferencia
+2025-12-03,Marcadores,Papelería,2,23200,46400,Transferencia
+2025-12-04,Agenda,Papelería,2,34700,69400,Transferencia
+2025-12-05,Mat de yoga,Deportes,1,100200,100200,Billetera digital
+2025-12-05,Mat de yoga,Deportes,1,100700,100700,Transferencia
+2025-12-06,Licuadora,Hogar,2,211600,423200,Billetera digital
+2025-12-07,Cuerda,Deportes,1,33500,33500,Efectivo
+2025-12-08,Cuaderno,Papelería,1,17100,17100,Transferencia
+2025-12-08,Cuaderno,Papelería,2,16800,33600,Transferencia
+2025-12-10,Mochila,Papelería,2,83900,167800,Billetera digital
+2025-12-11,Organizador,Hogar,1,45800,45800,Tarjeta
+2025-12-11,Cuaderno,Papelería,3,17200,51600,Billetera digital
+2025-12-11,Agenda,Papelería,3,32500,97500,Tarjeta
+2025-12-12,Cafetera,Hogar,3,198700,596100,Transferencia
+2025-12-13,Audífonos,Tecnología,1,80900,80900,Tarjeta
+2025-12-13,Marcadores,Papelería,1,22300,22300,Efectivo
+2025-12-13,Organizador,Hogar,3,42700,128100,Tarjeta
+2025-12-13,Mochila,Papelería,1,88300,88300,Billetera digital
+2025-12-13,Agenda,Papelería,2,34300,68600,Efectivo
+2025-12-13,Organizador,Hogar,1,43900,43900,Transferencia
+2025-12-14,Organizador,Hogar,3,44600,133800,Billetera digital
+2025-12-14,Lámpara,Hogar,3,62600,187800,Tarjeta
+2025-12-14,Cafetera,Hogar,1,187800,187800,Tarjeta
+2025-12-15,Marcadores,Papelería,3,23200,69600,Transferencia
+2025-12-15,Licuadora,Hogar,2,212500,425000,Efectivo
+2025-12-16,Lámpara,Hogar,1,73000,73000,Efectivo
+2025-12-17,Agenda,Papelería,1,34600,34600,Transferencia
+2025-12-18,Lámpara,Hogar,2,71500,143000,Transferencia
+2025-12-19,Teclado,Tecnología,1,101000,101000,Transferencia
+2025-12-19,Mouse,Tecnología,1,53000,53000,Tarjeta
+2025-12-19,Cuaderno,Papelería,1,16300,16300,Efectivo
+2025-12-19,Mat de yoga,Deportes,2,92200,184400,Efectivo
+2025-12-19,Cuaderno,Papelería,2,16600,33200,Tarjeta
+2025-12-20,Marcadores,Papelería,3,21300,63900,Tarjeta
+2025-12-21,Licuadora,Hogar,2,194100,388200,Efectivo
+2025-12-21,Cuerda,Deportes,2,36700,73400,Efectivo
+2025-12-22,Organizador,Hogar,1,44000,44000,Tarjeta
+2025-12-25,Marcadores,Papelería,2,22500,45000,Tarjeta
+2025-12-26,Mouse,Tecnología,1,55000,55000,Billetera digital
+2025-12-26,Cuerda,Deportes,1,36200,36200,Billetera digital
+2025-12-26,Cuerda,Deportes,2,35100,70200,Efectivo
+2025-12-28,Botella,Deportes,1,29900,29900,Billetera digital
+2025-12-28,Mochila,Papelería,3,87800,263400,Efectivo
+2025-12-29,Lámpara,Hogar,2,67300,134600,Tarjeta
+2025-12-29,Parlante,Tecnología,2,143200,286400,Transferencia
+2025-12-30,Balón,Deportes,3,80100,240300,Efectivo
+2025-12-30,Teclado,Tecnología,3,87400,262200,Efectivo
+2025-12-31,Balón,Deportes,1,76400,76400,Tarjeta
+2026-01-01,Organizador,Hogar,3,46100,138300,Transferencia
+2026-01-03,Mochila,Papelería,2,85800,171600,Billetera digital
+2026-01-03,Licuadora,Hogar,1,210700,210700,Tarjeta
+2026-01-04,Cuaderno,Papelería,2,15400,30800,Efectivo
+2026-01-05,Botella,Deportes,1,30200,30200,Efectivo
+2026-01-05,Licuadora,Hogar,2,194500,389000,Tarjeta
+2026-01-07,Cuerda,Deportes,1,37300,37300,Efectivo
+2026-01-07,Mochila,Papelería,1,86500,86500,Tarjeta
+2026-01-07,Cafetera,Hogar,2,189300,378600,Billetera digital
+2026-01-08,Botella,Deportes,1,29600,29600,Tarjeta
+2026-01-08,Cuaderno,Papelería,1,17100,17100,Transferencia
+2026-01-09,Balón,Deportes,1,71600,71600,Tarjeta
+2026-01-10,Cafetera,Hogar,1,180800,180800,Efectivo
+2026-01-11,Licuadora,Hogar,1,199600,199600,Billetera digital
+2026-01-11,Lámpara,Hogar,1,67300,67300,Efectivo
+2026-01-12,Teclado,Tecnología,1,94000,94000,Efectivo
+2026-01-13,Parlante,Tecnología,2,144100,288200,Transferencia
+2026-01-14,Mochila,Papelería,2,91500,183000,Transferencia
+2026-01-15,Mouse,Tecnología,2,48300,96600,Billetera digital
+2026-01-15,Balón,Deportes,1,74100,74100,Efectivo
+2026-01-18,Audífonos,Tecnología,2,82100,164200,Efectivo
+2026-01-18,Balón,Deportes,1,77300,77300,Efectivo
+2026-01-18,Balón,Deportes,3,71200,213600,Efectivo
+2026-01-19,Cafetera,Hogar,2,201300,402600,Efectivo
+2026-01-19,Cuerda,Deportes,3,35500,106500,Tarjeta
+2026-01-20,Mouse,Tecnología,2,51700,103400,Billetera digital
+2026-01-22,Agenda,Papelería,3,30400,91200,Efectivo
+2026-01-22,Agenda,Papelería,3,34200,102600,Tarjeta
+2026-01-23,Mochila,Papelería,1,86400,86400,Tarjeta
+2026-01-23,Lámpara,Hogar,2,73300,146600,Billetera digital
+2026-01-25,Teclado,Tecnología,2,94400,188800,Billetera digital
+2026-01-25,Teclado,Tecnología,1,90800,90800,Efectivo
+2026-01-25,Cuaderno,Papelería,2,15100,30200,Billetera digital
+2026-01-25,Lámpara,Hogar,1,67500,67500,Efectivo
+2026-01-27,Audífonos,Tecnología,1,80900,80900,Tarjeta
+2026-01-28,Lámpara,Hogar,1,70500,70500,Efectivo
+2026-01-29,Teclado,Tecnología,1,101300,101300,Efectivo
+2026-01-29,Agenda,Papelería,1,33400,33400,Tarjeta
+2026-01-30,Teclado,Tecnología,2,93200,186400,Efectivo
+2026-01-30,Teclado,Tecnología,1,91000,91000,Transferencia
+2026-01-30,Marcadores,Papelería,3,20800,62400,Tarjeta
+2026-01-31,Cuaderno,Papelería,3,17000,51000,Transferencia
+2026-01-31,Balón,Deportes,1,76900,76900,Transferencia
+2026-01-31,Licuadora,Hogar,1,226400,226400,Tarjeta
+2026-02-02,Organizador,Hogar,2,44000,88000,Transferencia
+2026-02-02,Balón,Deportes,3,69300,207900,Tarjeta
+2026-02-02,Organizador,Hogar,2,40500,81000,Transferencia
+2026-02-02,Licuadora,Hogar,3,205400,616200,Transferencia
+2026-02-03,Botella,Deportes,1,26500,26500,Tarjeta
+2026-02-03,Cuerda,Deportes,2,33300,66600,Transferencia
+2026-02-04,Balón,Deportes,2,68200,136400,Efectivo
+2026-02-05,Parlante,Tecnología,2,145200,290400,Tarjeta
+2026-02-06,Balón,Deportes,3,80200,240600,Tarjeta
+2026-02-07,Agenda,Papelería,1,30700,30700,Efectivo
+2026-02-07,Licuadora,Hogar,2,211300,422600,Efectivo
+2026-02-07,Marcadores,Papelería,2,21300,42600,Transferencia
+2026-02-10,Organizador,Hogar,1,43000,43000,Efectivo
+2026-02-10,Teclado,Tecnología,2,93600,187200,Billetera digital
+2026-02-11,Balón,Deportes,2,70900,141800,Billetera digital
+2026-02-11,Teclado,Tecnología,2,99900,199800,Transferencia
+2026-02-12,Marcadores,Papelería,2,20400,40800,Tarjeta
+2026-02-12,Mat de yoga,Deportes,1,99300,99300,Tarjeta
+2026-02-13,Parlante,Tecnología,2,132000,264000,Billetera digital
+2026-02-13,Botella,Deportes,1,30200,30200,Billetera digital
+2026-02-13,Agenda,Papelería,1,30900,30900,Efectivo
+2026-02-14,Cafetera,Hogar,3,193000,579000,Tarjeta
+2026-02-14,Lámpara,Hogar,1,68500,68500,Tarjeta
+2026-02-14,Botella,Deportes,2,26600,53200,Efectivo
+2026-02-14,Audífonos,Tecnología,2,72300,144600,Tarjeta
+2026-02-15,Mouse,Tecnología,3,53200,159600,Tarjeta
+2026-02-16,Balón,Deportes,2,80400,160800,Billetera digital
+2026-02-17,Cuerda,Deportes,1,36800,36800,Efectivo
+2026-02-17,Cuaderno,Papelería,1,16300,16300,Efectivo
+2026-02-18,Balón,Deportes,1,74700,74700,Billetera digital
+2026-02-20,Cafetera,Hogar,2,181200,362400,Tarjeta
+2026-02-20,Balón,Deportes,1,71000,71000,Billetera digital
+2026-02-21,Lámpara,Hogar,1,70500,70500,Efectivo
+2026-02-21,Balón,Deportes,1,70900,70900,Billetera digital
+2026-02-21,Mat de yoga,Deportes,3,102300,306900,Efectivo
+2026-02-22,Mochila,Papelería,1,84800,84800,Tarjeta
+2026-02-22,Organizador,Hogar,2,44700,89400,Transferencia
+2026-02-23,Cuaderno,Papelería,1,16900,16900,Transferencia
+2026-02-23,Teclado,Tecnología,3,91100,273300,Efectivo
+2026-02-24,Cuaderno,Papelería,3,16300,48900,Billetera digital
+2026-02-28,Mochila,Papelería,1,83300,83300,Efectivo
+2026-02-28,Cafetera,Hogar,3,178500,535500,Efectivo
+2026-03-02,Lámpara,Hogar,2,67700,135400,Billetera digital
+2026-03-02,Teclado,Tecnología,1,101500,101500,Efectivo
+2026-03-02,Agenda,Papelería,1,33100,33100,Billetera digital
+2026-03-02,Lámpara,Hogar,2,71600,143200,Tarjeta
+2026-03-02,Teclado,Tecnología,3,89600,268800,Billetera digital
+2026-03-05,Marcadores,Papelería,1,21500,21500,Transferencia
+2026-03-05,Licuadora,Hogar,1,226900,226900,Tarjeta
+2026-03-05,Audífonos,Tecnología,2,84400,168800,Efectivo
+2026-03-07,Licuadora,Hogar,1,225300,225300,Tarjeta
+2026-03-07,Cuerda,Deportes,1,36600,36600,Tarjeta
+2026-03-08,Parlante,Tecnología,1,131200,131200,Efectivo
+2026-03-09,Agenda,Papelería,1,29800,29800,Billetera digital
+2026-03-09,Cafetera,Hogar,2,172100,344200,Billetera digital
+2026-03-09,Organizador,Hogar,3,40300,120900,Billetera digital
+2026-03-09,Agenda,Papelería,2,33300,66600,Tarjeta
+2026-03-10,Audífonos,Tecnología,2,79300,158600,Billetera digital
+2026-03-10,Mochila,Papelería,1,89500,89500,Transferencia
+2026-03-12,Parlante,Tecnología,3,145700,437100,Billetera digital
+2026-03-12,Balón,Deportes,2,75000,150000,Efectivo
+2026-03-13,Mat de yoga,Deportes,1,105700,105700,Efectivo
+2026-03-13,Balón,Deportes,1,74400,74400,Tarjeta
+2026-03-14,Audífonos,Tecnología,2,81900,163800,Billetera digital
+2026-03-15,Botella,Deportes,3,29400,88200,Billetera digital
+2026-03-16,Balón,Deportes,2,70300,140600,Billetera digital
+2026-03-17,Cuerda,Deportes,1,33900,33900,Tarjeta
+2026-03-17,Botella,Deportes,1,27800,27800,Billetera digital
+2026-03-20,Mochila,Papelería,1,82600,82600,Billetera digital
+2026-03-20,Cafetera,Hogar,2,187800,375600,Transferencia
+2026-03-20,Teclado,Tecnología,1,89800,89800,Tarjeta
+2026-03-20,Lámpara,Hogar,1,66600,66600,Tarjeta
+2026-03-20,Lámpara,Hogar,3,71800,215400,Transferencia
+2026-03-21,Parlante,Tecnología,1,151100,151100,Transferencia
+2026-03-21,Mochila,Papelería,1,85400,85400,Efectivo
+2026-03-21,Mat de yoga,Deportes,1,99800,99800,Transferencia
+2026-03-22,Marcadores,Papelería,2,20800,41600,Transferencia
+2026-03-22,Audífonos,Tecnología,2,80000,160000,Efectivo
+2026-03-22,Organizador,Hogar,1,39600,39600,Billetera digital
+2026-03-23,Lámpara,Hogar,1,72500,72500,Billetera digital
+2026-03-23,Organizador,Hogar,3,46100,138300,Tarjeta
+2026-03-24,Botella,Deportes,1,27800,27800,Transferencia
+2026-03-24,Marcadores,Papelería,3,22900,68700,Transferencia
+2026-03-25,Botella,Deportes,1,29900,29900,Efectivo
+2026-03-26,Cuaderno,Papelería,2,17100,34200,Transferencia
+2026-03-26,Mat de yoga,Deportes,2,106100,212200,Efectivo
+2026-03-26,Audífonos,Tecnología,3,81600,244800,Tarjeta
+2026-03-26,Cafetera,Hogar,2,195100,390200,Tarjeta
+2026-03-27,Cuaderno,Papelería,3,14900,44700,Tarjeta
+2026-03-27,Licuadora,Hogar,1,204600,204600,Transferencia
+2026-03-28,Teclado,Tecnología,1,93100,93100,Tarjeta
+2026-03-29,Cuaderno,Papelería,2,15800,31600,Efectivo
+2026-03-31,Lámpara,Hogar,2,62800,125600,Efectivo
+2026-03-31,Lámpara,Hogar,2,70000,140000,Billetera digital
+2026-03-31,Lámpara,Hogar,1,68900,68900,Tarjeta
+2026-03-31,Mouse,Tecnología,2,50100,100200,Transferencia
+2026-03-31,Cuerda,Deportes,1,33400,33400,Transferencia
+2026-04-01,Organizador,Hogar,3,42400,127200,Tarjeta
+2026-04-01,Botella,Deportes,2,28000,56000,Billetera digital
+2026-04-02,Audífonos,Tecnología,2,74100,148200,Tarjeta
+2026-04-02,Cuaderno,Papelería,1,15400,15400,Billetera digital
+2026-04-03,Parlante,Tecnología,2,143000,286000,Transferencia
+2026-04-04,Licuadora,Hogar,1,209800,209800,Efectivo
+2026-04-05,Balón,Deportes,3,71400,214200,Transferencia
+2026-04-06,Agenda,Papelería,3,29600,88800,Transferencia
+2026-04-07,Lámpara,Hogar,2,66200,132400,Transferencia
+2026-04-07,Teclado,Tecnología,1,89400,89400,Transferencia
+2026-04-08,Balón,Deportes,3,74400,223200,Tarjeta
+2026-04-09,Agenda,Papelería,2,31600,63200,Efectivo
+2026-04-10,Cuaderno,Papelería,3,16400,49200,Efectivo
+2026-04-10,Balón,Deportes,2,76700,153400,Billetera digital
+2026-04-10,Licuadora,Hogar,1,203200,203200,Transferencia
+2026-04-11,Lámpara,Hogar,1,63000,63000,Efectivo
+2026-04-11,Licuadora,Hogar,1,198700,198700,Tarjeta
+2026-04-11,Mochila,Papelería,3,86800,260400,Tarjeta
+2026-04-14,Licuadora,Hogar,2,226500,453000,Billetera digital
+2026-04-14,Lámpara,Hogar,1,66800,66800,Tarjeta
+2026-04-14,Cafetera,Hogar,1,195800,195800,Tarjeta
+2026-04-16,Audífonos,Tecnología,1,82500,82500,Tarjeta
+2026-04-16,Balón,Deportes,1,77200,77200,Tarjeta
+2026-04-17,Organizador,Hogar,2,43700,87400,Efectivo
+2026-04-18,Organizador,Hogar,1,45100,45100,Transferencia
+2026-04-18,Mouse,Tecnología,1,54400,54400,Transferencia
+2026-04-19,Audífonos,Tecnología,2,75100,150200,Tarjeta
+2026-04-20,Teclado,Tecnología,1,88800,88800,Efectivo
+2026-04-20,Lámpara,Hogar,1,68400,68400,Billetera digital
+2026-04-20,Mouse,Tecnología,3,54300,162900,Tarjeta
+2026-04-20,Cuaderno,Papelería,1,15100,15100,Billetera digital
+2026-04-21,Agenda,Papelería,3,30500,91500,Billetera digital
+2026-04-21,Audífonos,Tecnología,1,77000,77000,Tarjeta
+2026-04-21,Organizador,Hogar,2,44500,89000,Efectivo
+2026-04-21,Audífonos,Tecnología,1,79200,79200,Transferencia
+2026-04-23,Mat de yoga,Deportes,2,100600,201200,Tarjeta
+2026-04-23,Lámpara,Hogar,1,65900,65900,Billetera digital
+2026-04-24,Cuerda,Deportes,1,34100,34100,Efectivo
+2026-04-24,Audífonos,Tecnología,1,72900,72900,Efectivo
+2026-04-25,Mochila,Papelería,2,83200,166400,Efectivo
+2026-04-25,Organizador,Hogar,2,46000,92000,Transferencia
+2026-04-25,Licuadora,Hogar,2,206100,412200,Tarjeta
+2026-04-25,Cafetera,Hogar,1,179900,179900,Efectivo
+2026-04-25,Audífonos,Tecnología,1,73900,73900,Billetera digital
+2026-04-25,Cafetera,Hogar,1,173600,173600,Efectivo
+2026-04-26,Balón,Deportes,2,77900,155800,Efectivo
+2026-04-26,Cuaderno,Papelería,1,14900,14900,Billetera digital
+2026-04-26,Mat de yoga,Deportes,1,105300,105300,Efectivo
+2026-04-27,Licuadora,Hogar,1,228600,228600,Efectivo
+2026-04-28,Botella,Deportes,1,27100,27100,Efectivo
+2026-04-29,Cuaderno,Papelería,3,15800,47400,Efectivo
+2026-04-30,Lámpara,Hogar,1,73300,73300,Efectivo
+2026-05-01,Mouse,Tecnología,1,49600,49600,Efectivo
+2026-05-01,Cuerda,Deportes,3,36300,108900,Tarjeta
+2026-05-01,Marcadores,Papelería,3,21700,65100,Tarjeta
+2026-05-02,Marcadores,Papelería,2,23200,46400,Billetera digital
+2026-05-02,Licuadora,Hogar,1,217300,217300,Efectivo
+2026-05-04,Cuerda,Deportes,2,36800,73600,Billetera digital
+2026-05-04,Cuerda,Deportes,1,32200,32200,Efectivo
+2026-05-04,Cafetera,Hogar,1,194500,194500,Tarjeta
+2026-05-05,Mat de yoga,Deportes,1,103600,103600,Efectivo
+2026-05-06,Cafetera,Hogar,1,200500,200500,Efectivo
+2026-05-06,Botella,Deportes,1,29000,29000,Efectivo
+2026-05-06,Mochila,Papelería,1,89900,89900,Transferencia
+2026-05-06,Audífonos,Tecnología,1,75700,75700,Transferencia
+2026-05-06,Mat de yoga,Deportes,2,98300,196600,Transferencia
+2026-05-07,Mouse,Tecnología,1,49000,49000,Tarjeta
+2026-05-10,Organizador,Hogar,3,45100,135300,Efectivo
+2026-05-11,Cuerda,Deportes,1,34800,34800,Transferencia
+2026-05-11,Cuaderno,Papelería,1,15700,15700,Efectivo
+2026-05-13,Teclado,Tecnología,2,91800,183600,Billetera digital
+2026-05-13,Parlante,Tecnología,2,149700,299400,Billetera digital
+2026-05-14,Parlante,Tecnología,1,137500,137500,Tarjeta
+2026-05-15,Licuadora,Hogar,2,218200,436400,Efectivo
+2026-05-15,Mochila,Papelería,1,84400,84400,Tarjeta
+2026-05-16,Licuadora,Hogar,1,194400,194400,Tarjeta
+2026-05-16,Cuerda,Deportes,1,33600,33600,Tarjeta
+2026-05-17,Cafetera,Hogar,1,174100,174100,Transferencia
+2026-05-17,Agenda,Papelería,1,32000,32000,Tarjeta
+2026-05-17,Licuadora,Hogar,1,217100,217100,Transferencia
+2026-05-18,Parlante,Tecnología,1,153300,153300,Transferencia
+2026-05-18,Mochila,Papelería,1,94200,94200,Transferencia
+2026-05-18,Cuaderno,Papelería,1,15000,15000,Tarjeta
+2026-05-19,Botella,Deportes,1,30400,30400,Tarjeta
+2026-05-19,Teclado,Tecnología,1,101200,101200,Transferencia
+2026-05-19,Organizador,Hogar,1,46700,46700,Tarjeta
+2026-05-20,Cuaderno,Papelería,2,16000,32000,Transferencia
+2026-05-20,Marcadores,Papelería,2,22100,44200,Transferencia
+2026-05-22,Licuadora,Hogar,3,204500,613500,Billetera digital
+2026-05-22,Balón,Deportes,2,74300,148600,Tarjeta
+2026-05-22,Parlante,Tecnología,2,141700,283400,Transferencia
+2026-05-22,Mochila,Papelería,1,82100,82100,Billetera digital
+2026-05-22,Lámpara,Hogar,1,73100,73100,Efectivo
+2026-05-23,Organizador,Hogar,1,42900,42900,Billetera digital
+2026-05-24,Cuerda,Deportes,2,35100,70200,Transferencia
+2026-05-24,Cuaderno,Papelería,1,16200,16200,Efectivo
+2026-05-24,Balón,Deportes,3,73000,219000,Transferencia
+2026-05-24,Agenda,Papelería,3,34000,102000,Billetera digital
+2026-05-25,Mochila,Papelería,1,88400,88400,Efectivo
+2026-05-25,Cafetera,Hogar,1,193900,193900,Transferencia
+2026-05-26,Cuaderno,Papelería,3,14800,44400,Transferencia
+2026-05-26,Mat de yoga,Deportes,1,101400,101400,Tarjeta
+2026-05-27,Licuadora,Hogar,1,207700,207700,Efectivo
+2026-05-27,Marcadores,Papelería,2,23100,46200,Transferencia
+2026-05-27,Cafetera,Hogar,2,187700,375400,Tarjeta
+2026-05-28,Cuerda,Deportes,1,36900,36900,Billetera digital
+2026-05-28,Marcadores,Papelería,2,22300,44600,Transferencia
+2026-05-29,Agenda,Papelería,1,33400,33400,Billetera digital
+2026-05-29,Lámpara,Hogar,1,62600,62600,Transferencia
+2026-05-29,Balón,Deportes,1,76600,76600,Transferencia
+2026-05-30,Mouse,Tecnología,3,49700,149100,Efectivo
+2026-05-31,Cafetera,Hogar,2,194000,388000,Efectivo
+2026-05-31,Agenda,Papelería,2,30800,61600,Efectivo
+2026-05-31,Balón,Deportes,1,69100,69100,Efectivo
+2026-06-01,Mat de yoga,Deportes,2,90700,181400,Transferencia
+2026-06-01,Cuaderno,Papelería,2,14900,29800,Billetera digital
+2026-06-02,Organizador,Hogar,1,42000,42000,Tarjeta
+2026-06-02,Cuaderno,Papelería,1,17300,17300,Transferencia
+2026-06-02,Lámpara,Hogar,1,70900,70900,Tarjeta
+2026-06-05,Audífonos,Tecnología,3,80300,240900,Billetera digital
+2026-06-05,Marcadores,Papelería,1,20800,20800,Efectivo
+2026-06-06,Licuadora,Hogar,1,220200,220200,Tarjeta
+2026-06-07,Organizador,Hogar,3,42700,128100,Billetera digital
+2026-06-07,Lámpara,Hogar,1,66500,66500,Efectivo
+2026-06-07,Parlante,Tecnología,1,145600,145600,Transferencia
+2026-06-07,Balón,Deportes,1,79600,79600,Tarjeta
+2026-06-07,Mat de yoga,Deportes,2,96000,192000,Tarjeta
+2026-06-08,Lámpara,Hogar,1,64900,64900,Efectivo
+2026-06-09,Mouse,Tecnología,3,51900,155700,Transferencia
+2026-06-09,Lámpara,Hogar,3,64100,192300,Transferencia
+2026-06-10,Balón,Deportes,2,76500,153000,Billetera digital
+2026-06-10,Teclado,Tecnología,3,99900,299700,Tarjeta
+2026-06-11,Agenda,Papelería,1,32600,32600,Tarjeta
+2026-06-11,Organizador,Hogar,1,43900,43900,Efectivo
+2026-06-11,Cuaderno,Papelería,1,17300,17300,Tarjeta
+2026-06-12,Cafetera,Hogar,2,192500,385000,Tarjeta
+2026-06-12,Lámpara,Hogar,1,63700,63700,Transferencia
+2026-06-13,Teclado,Tecnología,1,93600,93600,Transferencia
+2026-06-13,Licuadora,Hogar,3,193700,581100,Tarjeta
+2026-06-14,Parlante,Tecnología,2,135000,270000,Efectivo
+2026-06-16,Cuerda,Deportes,3,33200,99600,Transferencia
+2026-06-16,Mochila,Papelería,2,83900,167800,Tarjeta
+2026-06-18,Licuadora,Hogar,1,228400,228400,Transferencia
+2026-06-19,Botella,Deportes,2,30200,60400,Tarjeta
+2026-06-19,Licuadora,Hogar,3,197500,592500,Tarjeta
+2026-06-19,Cuerda,Deportes,2,34500,69000,Billetera digital
+2026-06-19,Teclado,Tecnología,2,93800,187600,Efectivo
+2026-06-20,Mochila,Papelería,2,85000,170000,Efectivo
+2026-06-20,Balón,Deportes,1,78700,78700,Tarjeta
+2026-06-21,Cuaderno,Papelería,1,16500,16500,Efectivo
+2026-06-23,Organizador,Hogar,3,44400,133200,Tarjeta
+2026-06-24,Parlante,Tecnología,1,137100,137100,Tarjeta
+2026-06-25,Audífonos,Tecnología,1,73600,73600,Tarjeta
+2026-06-25,Botella,Deportes,2,28200,56400,Transferencia
+2026-06-25,Teclado,Tecnología,3,91900,275700,Transferencia
+2026-06-25,Parlante,Tecnología,3,153900,461700,Tarjeta
+2026-06-26,Licuadora,Hogar,2,221300,442600,Tarjeta
+2026-06-27,Cuaderno,Papelería,1,15800,15800,Billetera digital
+2026-06-27,Mouse,Tecnología,1,48600,48600,Transferencia
+2026-06-28,Parlante,Tecnología,2,151200,302400,Billetera digital
+2026-06-28,Marcadores,Papelería,1,23900,23900,Efectivo
+2026-06-28,Botella,Deportes,2,28600,57200,Efectivo
+2026-06-28,Parlante,Tecnología,3,141600,424800,Billetera digital
+2026-06-28,Mochila,Papelería,1,85900,85900,Tarjeta
+2026-06-29,Mat de yoga,Deportes,3,92800,278400,Billetera digital
+2026-06-29,Mochila,Papelería,3,85500,256500,Tarjeta
+2026-06-30,Audífonos,Tecnología,2,80400,160800,Tarjeta
+2026-06-30,Parlante,Tecnología,2,132200,264400,Efectivo
+2026-06-30,Teclado,Tecnología,2,91300,182600,Transferencia
+2026-07-01,Mochila,Papelería,1,90700,90700,Transferencia
+2026-07-01,Botella,Deportes,1,27300,27300,Tarjeta
+2026-07-03,Botella,Deportes,2,27500,55000,Transferencia
+2026-07-03,Teclado,Tecnología,1,97000,97000,Billetera digital
+2026-07-04,Parlante,Tecnología,1,141800,141800,Efectivo
+2026-07-05,Lámpara,Hogar,3,62600,187800,Tarjeta
+2026-07-05,Lámpara,Hogar,1,64600,64600,Transferencia
+2026-07-06,Agenda,Papelería,1,34800,34800,Transferencia
+2026-07-06,Botella,Deportes,1,26100,26100,Tarjeta
+2026-07-07,Balón,Deportes,2,78800,157600,Billetera digital
+2026-07-07,Cafetera,Hogar,1,186200,186200,Tarjeta
+2026-07-10,Mochila,Papelería,2,85800,171600,Transferencia
+2026-07-11,Audífonos,Tecnología,1,82000,82000,Efectivo
+2026-07-12,Cuerda,Deportes,1,36700,36700,Transferencia
+2026-07-12,Mat de yoga,Deportes,2,106500,213000,Efectivo
+2026-07-14,Marcadores,Papelería,1,22900,22900,Efectivo
+2026-07-15,Mouse,Tecnología,1,48200,48200,Tarjeta
+2026-07-16,Cuerda,Deportes,1,34100,34100,Tarjeta
+2026-07-16,Cuerda,Deportes,3,37800,113400,Efectivo
+2026-07-17,Mouse,Tecnología,1,55700,55700,Transferencia
+2026-07-18,Agenda,Papelería,1,34400,34400,Billetera digital
+2026-07-19,Lámpara,Hogar,2,69800,139600,Billetera digital
+2026-07-19,Licuadora,Hogar,2,199800,399600,Tarjeta
+2026-07-20,Lámpara,Hogar,1,64200,64200,Tarjeta
+2026-07-20,Cuerda,Deportes,1,37900,37900,Transferencia
+2026-07-20,Cafetera,Hogar,1,196800,196800,Tarjeta
+2026-07-21,Lámpara,Hogar,2,73100,146200,Billetera digital
+2026-07-21,Organizador,Hogar,2,41500,83000,Efectivo
+2026-07-23,Licuadora,Hogar,1,211100,211100,Tarjeta
+2026-07-23,Lámpara,Hogar,1,69600,69600,Transferencia
+2026-07-23,Agenda,Papelería,1,30700,30700,Tarjeta
+2026-07-24,Mouse,Tecnología,1,51600,51600,Efectivo
+2026-07-25,Audífonos,Tecnología,2,82800,165600,Efectivo
+2026-07-25,Teclado,Tecnología,2,101500,203000,Transferencia
+2026-07-27,Agenda,Papelería,1,32800,32800,Billetera digital
+2026-07-27,Parlante,Tecnología,1,154000,154000,Tarjeta
+2026-07-28,Marcadores,Papelería,1,20600,20600,Tarjeta
+2026-07-29,Parlante,Tecnología,2,153600,307200,Transferencia
+2026-07-30,Cuaderno,Papelería,2,15200,30400,Tarjeta
+2026-07-30,Agenda,Papelería,2,33700,67400,Billetera digital
+2026-07-31,Lámpara,Hogar,2,63700,127400,Transferencia
+2026-08-01,Cuerda,Deportes,2,32700,65400,Efectivo
+2026-08-02,Balón,Deportes,2,69200,138400,Tarjeta
+2026-08-03,Lámpara,Hogar,1,68700,68700,Efectivo
+2026-08-03,Parlante,Tecnología,1,131200,131200,Tarjeta
+2026-08-03,Audífonos,Tecnología,2,78300,156600,Transferencia
+2026-08-04,Lámpara,Hogar,2,65400,130800,Transferencia
+2026-08-05,Cafetera,Hogar,1,188800,188800,Billetera digital
+2026-08-05,Mat de yoga,Deportes,3,105100,315300,Efectivo
+2026-08-05,Licuadora,Hogar,2,227500,455000,Tarjeta
+2026-08-06,Audífonos,Tecnología,3,84200,252600,Tarjeta
+2026-08-07,Teclado,Tecnología,2,101300,202600,Transferencia
+2026-08-08,Mouse,Tecnología,3,53800,161400,Efectivo
+2026-08-10,Botella,Deportes,3,28500,85500,Transferencia
+2026-08-11,Parlante,Tecnología,2,151900,303800,Tarjeta
+2026-08-11,Audífonos,Tecnología,1,71800,71800,Tarjeta
+2026-08-12,Mouse,Tecnología,2,53800,107600,Billetera digital
+2026-08-13,Parlante,Tecnología,3,136700,410100,Billetera digital
+2026-08-13,Licuadora,Hogar,3,228300,684900,Efectivo
+2026-08-13,Cafetera,Hogar,1,173900,173900,Tarjeta
+2026-08-13,Mat de yoga,Deportes,2,103600,207200,Billetera digital
+2026-08-14,Botella,Deportes,3,26300,78900,Efectivo
+2026-08-15,Mat de yoga,Deportes,2,105800,211600,Efectivo
+2026-08-15,Organizador,Hogar,2,46600,93200,Transferencia
+2026-08-16,Cuerda,Deportes,3,36000,108000,Billetera digital
+2026-08-17,Balón,Deportes,2,77200,154400,Tarjeta
+2026-08-18,Mouse,Tecnología,1,47900,47900,Billetera digital
+2026-08-19,Cuaderno,Papelería,1,16800,16800,Billetera digital
+2026-08-19,Mat de yoga,Deportes,1,102600,102600,Transferencia
+2026-08-23,Marcadores,Papelería,2,22100,44200,Efectivo
+2026-08-24,Mochila,Papelería,1,94900,94900,Tarjeta
+2026-08-25,Cafetera,Hogar,1,195500,195500,Billetera digital
+2026-08-25,Audífonos,Tecnología,1,84400,84400,Transferencia
+2026-08-25,Mat de yoga,Deportes,1,101300,101300,Billetera digital
+2026-08-26,Teclado,Tecnología,2,100500,201000,Efectivo
+2026-08-26,Marcadores,Papelería,1,22400,22400,Tarjeta
+2026-08-27,Cuerda,Deportes,1,35300,35300,Tarjeta
+2026-08-28,Audífonos,Tecnología,3,81700,245100,Tarjeta
+2026-08-29,Botella,Deportes,2,29600,59200,Efectivo
+2026-08-29,Audífonos,Tecnología,1,79100,79100,Billetera digital
+2026-08-30,Audífonos,Tecnología,1,75100,75100,Transferencia
+2026-08-30,Lámpara,Hogar,1,65000,65000,Efectivo
+2026-08-31,Marcadores,Papelería,1,22400,22400,Tarjeta
+2026-09-02,Cuerda,Deportes,1,33100,33100,Efectivo
+2026-09-02,Cuerda,Deportes,3,32300,96900,Tarjeta
+2026-09-05,Marcadores,Papelería,1,23900,23900,Tarjeta
+2026-09-05,Mouse,Tecnología,1,49200,49200,Transferencia
+2026-09-07,Mat de yoga,Deportes,1,96800,96800,Billetera digital
+2026-09-08,Cuaderno,Papelería,3,17300,51900,Tarjeta
+2026-09-08,Mochila,Papelería,2,93100,186200,Tarjeta
+2026-09-09,Organizador,Hogar,1,41600,41600,Efectivo
+2026-09-10,Cafetera,Hogar,3,187400,562200,Efectivo
+2026-09-10,Agenda,Papelería,2,31200,62400,Efectivo
+2026-09-10,Agenda,Papelería,1,34100,34100,Transferencia
+2026-09-11,Cafetera,Hogar,2,186900,373800,Tarjeta
+2026-09-11,Cuerda,Deportes,2,33300,66600,Efectivo
+2026-09-11,Mochila,Papelería,1,91800,91800,Transferencia
+2026-09-11,Lámpara,Hogar,2,72300,144600,Billetera digital
+2026-09-11,Lámpara,Hogar,3,68900,206700,Transferencia
+2026-09-13,Agenda,Papelería,1,31200,31200,Tarjeta
+2026-09-13,Botella,Deportes,3,26400,79200,Transferencia
+2026-09-13,Balón,Deportes,1,75900,75900,Transferencia
+2026-09-13,Lámpara,Hogar,2,63300,126600,Efectivo
+2026-09-13,Cuerda,Deportes,3,34600,103800,Efectivo
+2026-09-14,Cuerda,Deportes,3,36500,109500,Efectivo
+2026-09-14,Agenda,Papelería,1,33000,33000,Billetera digital
+2026-09-15,Balón,Deportes,3,71800,215400,Billetera digital
+2026-09-15,Balón,Deportes,1,78500,78500,Billetera digital
+2026-09-16,Licuadora,Hogar,1,197800,197800,Efectivo
+2026-09-18,Botella,Deportes,1,26200,26200,Billetera digital
+2026-09-18,Parlante,Tecnología,1,147600,147600,Billetera digital
+2026-09-20,Parlante,Tecnología,2,150700,301400,Efectivo
+2026-09-21,Balón,Deportes,2,75000,150000,Efectivo
+2026-09-22,Licuadora,Hogar,1,223700,223700,Efectivo
+2026-09-23,Marcadores,Papelería,3,22200,66600,Efectivo
+2026-09-23,Mat de yoga,Deportes,1,95900,95900,Billetera digital
+2026-09-24,Lámpara,Hogar,2,66800,133600,Transferencia
+2026-09-24,Licuadora,Hogar,2,198000,396000,Efectivo
+2026-09-24,Cuerda,Deportes,3,32400,97200,Efectivo
+2026-09-26,Mat de yoga,Deportes,2,100600,201200,Tarjeta
+2026-09-26,Cuaderno,Papelería,3,14800,44400,Tarjeta
+2026-09-26,Licuadora,Hogar,1,226200,226200,Transferencia
+2026-09-27,Mochila,Papelería,1,85000,85000,Tarjeta
+2026-09-29,Parlante,Tecnología,2,142500,285000,Billetera digital
+2026-09-29,Cafetera,Hogar,1,185500,185500,Efectivo
+2026-09-30,Licuadora,Hogar,1,209800,209800,Tarjeta
+2026-10-01,Mouse,Tecnología,2,48900,97800,Tarjeta
+2026-10-02,Balón,Deportes,2,68600,137200,Efectivo
+2026-10-02,Cuaderno,Papelería,1,16200,16200,Tarjeta
+2026-10-02,Cuerda,Deportes,1,35500,35500,Billetera digital
+2026-10-03,Teclado,Tecnología,2,89200,178400,Tarjeta
+2026-10-04,Parlante,Tecnología,2,136700,273400,Billetera digital
+2026-10-05,Audífonos,Tecnología,1,79300,79300,Tarjeta
+2026-10-05,Mouse,Tecnología,1,49800,49800,Transferencia
+2026-10-05,Cuerda,Deportes,1,37500,37500,Tarjeta
+2026-10-05,Balón,Deportes,1,68400,68400,Transferencia
+2026-10-07,Mochila,Papelería,1,92500,92500,Billetera digital
+2026-10-07,Cuaderno,Papelería,1,15900,15900,Tarjeta
+2026-10-07,Lámpara,Hogar,1,64500,64500,Transferencia
+2026-10-07,Parlante,Tecnología,3,135600,406800,Transferencia
+2026-10-07,Cafetera,Hogar,2,176100,352200,Tarjeta
+2026-10-09,Agenda,Papelería,1,33700,33700,Billetera digital
+2026-10-09,Botella,Deportes,2,29600,59200,Billetera digital
+2026-10-09,Marcadores,Papelería,1,22300,22300,Efectivo
+2026-10-10,Marcadores,Papelería,1,23900,23900,Transferencia
+2026-10-10,Cuerda,Deportes,2,38100,76200,Efectivo
+2026-10-11,Organizador,Hogar,2,41000,82000,Tarjeta
+2026-10-11,Lámpara,Hogar,2,71100,142200,Efectivo
+2026-10-11,Lámpara,Hogar,3,70200,210600,Transferencia
+2026-10-12,Parlante,Tecnología,2,148600,297200,Transferencia
+2026-10-12,Marcadores,Papelería,1,23800,23800,Billetera digital
+2026-10-12,Mochila,Papelería,1,92700,92700,Efectivo
+2026-10-12,Balón,Deportes,1,71300,71300,Transferencia
+2026-10-13,Licuadora,Hogar,1,198600,198600,Billetera digital
+2026-10-14,Cuerda,Deportes,2,36000,72000,Transferencia
+2026-10-15,Licuadora,Hogar,1,212700,212700,Billetera digital
+2026-10-15,Marcadores,Papelería,3,21900,65700,Transferencia
+2026-10-16,Cuerda,Deportes,1,34700,34700,Efectivo
+2026-10-16,Marcadores,Papelería,2,22700,45400,Billetera digital
+2026-10-16,Organizador,Hogar,1,45200,45200,Transferencia
